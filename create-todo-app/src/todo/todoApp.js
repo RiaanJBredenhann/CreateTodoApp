@@ -32,6 +32,7 @@ class TodoApp extends React.Component {
         })
         this.setState({ todoItems: newTodoItems })
     }
+    
     render() {
         return (
             <div className="container">

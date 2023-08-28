@@ -4,12 +4,13 @@ import TodoApp from "./todo/TodoApp";
 
 class App extends React.Component {
 
-  render(){
+  render() {
 
-  return (
-    <TodoApp />
-  );
+    return (
+      <TodoApp />
+    );
 
   }
 }
+
 export default App;
